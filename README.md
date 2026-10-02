@@ -3,7 +3,8 @@
 # Himanshu Chandelkar
 
 **B.Com (Computer Applications) Student**  
-J.H. Govt. P.G. College, Betul  
+Jaywanti Haksar Post Graduation College, Betul 
+
 📍 Betul, Madhya Pradesh, India
 
 <br>
@@ -18,7 +19,7 @@ J.H. Govt. P.G. College, Betul
 
 ## About Me
 
-I'm **Himanshu Chandelkar**, currently pursuing a **Bachelor of Commerce (Computer Applications)** at **J.H. Govt. P.G. College, Betul**.
+I'm **Himanshu Chandelkar**, currently pursuing a **Bachelor of Commerce (Computer Applications)** at **Jaywanti Haksar Post Graduation College, Betul**.
 
 My background combines commerce with computer applications, and I’m focused on building a strong foundation through my degree while developing practical skills through self-learning and hands-on exploration.
 
@@ -31,7 +32,7 @@ I enjoy understanding how things work, learning new concepts step by step, and i
 <table>
 <tr>
 <td width="35%"><strong>B.Com (Computer Applications)</strong></td>
-<td>J.H. Govt. P.G. College, Betul</td>
+<td>Jaywanti Haksar Post Graduation College, Betul</td>
 <td><strong>2025 – Present</strong></td>
 </tr>
 <tr>
@@ -48,7 +49,7 @@ I enjoy understanding how things work, learning new concepts step by step, and i
 
 ---
 
-## 🌐 My Website
+## 🌐 Personal Website
 
 <div align="center">
 
@@ -96,6 +97,6 @@ I enjoy understanding how things work, learning new concepts step by step, and i
 
 <div align="center">
 
-[**himanshuchandelkar.social**](https://himanshuchandelkar.social/) · [**LinkedIn**](https://www.linkedin.com/in/himanshuchandelkar/) · [**Carrd**](https://himanshuchandelkar.carrd.co/)
+[**Website**](https://himanshuchandelkar.social/) · [**LinkedIn**](https://www.linkedin.com/in/himanshuchandelkar/) · [**Carrd**](https://himanshuchandelkar.carrd.co/)
 
 </div>
