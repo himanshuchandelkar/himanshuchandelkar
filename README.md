@@ -82,10 +82,6 @@ I enjoy understanding how things work, learning new concepts step by step, and i
 </a>
 
 <br><br>
-
-<a href="https://himanshuchandelkar.carrd.co/">
-  <img src="https://img.shields.io/badge/Carrd-himanshuchandelkar.carrd.co-111111?style=for-the-badge&logo=linktree&logoColor=white" alt="Carrd">
-</a>
 &nbsp;
 <a href="mailto:https://himanshuchandelkar.substack.com">
   <img src="https://img.shields.io/badge/Email-Direct%40Himanshuchandelkar.in-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
