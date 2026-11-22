@@ -84,7 +84,7 @@ I enjoy understanding how things work, learning new concepts step by step, and i
 <br><br>
 &nbsp;
 <a href="mailto:https://himanshuchandelkar.substack.com">
-  <img src="https://img.shields.io/badge/Email-Direct%40Himanshuchandelkar.in-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-Direct%40Himanshuchandelkar.in-555555?style=for-the-badge&logo=mail&logoColor=white" alt="Email">
 </a>
 
 </div>
