@@ -9,8 +9,8 @@ Jaywanti Haksar Post Graduation College, Betul
 
 <br>
 
-<a href="https://himanshuchandelkar.social/">
-  <img src="https://img.shields.io/badge/MY%20WEBSITE-himanshuchandelkar.social-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Website">
+<a href="https://himanshuchandelkar.in/">
+  <img src="https://img.shields.io/badge/MY%20WEBSITE-himanshuchandelkar.in-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Website">
 </a>
 
 </div>
@@ -53,8 +53,8 @@ I enjoy understanding how things work, learning new concepts step by step, and i
 
 <div align="center">
 
-<a href="https://himanshuchandelkar.social/">
-  <img src="https://img.shields.io/badge/himanshuchandelkar.social-OPEN%20WEBSITE-18181b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Personal Website">
+<a href="https://himanshuchandelkar.in/">
+  <img src="https://img.shields.io/badge/himanshuchandelkar.in-OPEN%20WEBSITE-18181b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Personal Website">
 </a>
 
 <br><br>
@@ -87,8 +87,8 @@ I enjoy understanding how things work, learning new concepts step by step, and i
   <img src="https://img.shields.io/badge/Carrd-himanshuchandelkar.carrd.co-111111?style=for-the-badge&logo=linktree&logoColor=white" alt="Carrd">
 </a>
 &nbsp;
-<a href="mailto:contacthimanshuyt@gmail.com">
-  <img src="https://img.shields.io/badge/Email-contacthimanshuyt%40gmail.com-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<a href="mailto:https://himanshuchandelkar.substack.com">
+  <img src="https://img.shields.io/badge/Email-Direct%40Himanshuchandelkar.in-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
@@ -97,6 +97,6 @@ I enjoy understanding how things work, learning new concepts step by step, and i
 
 <div align="center">
 
-[**Website**](https://himanshuchandelkar.social/) · [**LinkedIn**](https://www.linkedin.com/in/himanshuchandelkar/) · [**Carrd**](https://himanshuchandelkar.carrd.co/)
+[**Website**](https://himanshuchandelkar.in) · [**LinkedIn**](https://www.linkedin.com/in/himanshuchandelkar/)
 
 </div>
